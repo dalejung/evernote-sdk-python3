@@ -39,6 +39,7 @@ setup(
     license='BSD',
     install_requires=[
         'oauthlib',
-        'requests_oauthlib'
+        'requests_oauthlib',
+        'thrift'
     ],
 )
